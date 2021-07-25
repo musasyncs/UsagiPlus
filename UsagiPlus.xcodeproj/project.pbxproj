@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BA01543E26AD371A00655233 /* SwitchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BA01543D26AD371A00655233 /* SwitchView.swift */; };
 		BAC9BBD726ACB46D00B8D2C1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC9BBD626ACB46D00B8D2C1 /* AppDelegate.swift */; };
 		BAC9BBD926ACB46D00B8D2C1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC9BBD826ACB46D00B8D2C1 /* SceneDelegate.swift */; };
 		BAC9BBDB26ACB46D00B8D2C1 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAC9BBDA26ACB46D00B8D2C1 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BA01543D26AD371A00655233 /* SwitchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwitchView.swift; sourceTree = "<group>"; };
 		BAC9BBD326ACB46D00B8D2C1 /* UsagiPlus.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UsagiPlus.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAC9BBD626ACB46D00B8D2C1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BAC9BBD826ACB46D00B8D2C1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				BAC9BBD826ACB46D00B8D2C1 /* SceneDelegate.swift */,
 				BAC9BBDA26ACB46D00B8D2C1 /* ViewController.swift */,
 				BAC9BBDC26ACB46D00B8D2C1 /* Main.storyboard */,
+				BA01543D26AD371A00655233 /* SwitchView.swift */,
 				BAC9BBDF26ACB47200B8D2C1 /* Assets.xcassets */,
 				BAC9BBE126ACB47200B8D2C1 /* LaunchScreen.storyboard */,
 				BAC9BBE426ACB47200B8D2C1 /* Info.plist */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BA01543E26AD371A00655233 /* SwitchView.swift in Sources */,
 				BAC9BBDB26ACB46D00B8D2C1 /* ViewController.swift in Sources */,
 				BAC9BBD726ACB46D00B8D2C1 /* AppDelegate.swift in Sources */,
 				BAC9BBD926ACB46D00B8D2C1 /* SceneDelegate.swift in Sources */,
